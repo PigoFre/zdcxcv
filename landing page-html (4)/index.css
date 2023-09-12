@@ -1,0 +1,234 @@
+.home-container {
+  gap: 0;
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url('https://c4.wallpaperflare.com/wallpaper/825/526/337/socrates-painting-greek-philosophers-jacques-louis-david-wallpaper-preview.jpg');
+}
+.home-hero {
+  width: 100%;
+  height: 850px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  padding-top: var(--dl-space-space-tenunits);
+  margin-bottom: var(--dl-space-space-fiveunits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-tenunits);
+  justify-content: center;
+}
+.home-cta-btn {
+  top: 474px;
+  left: 464px;
+  color: var(--dl-color-gray-white);
+  width: 270px;
+  position: absolute;
+  font-size: 18px;
+  align-self: flex-start;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  font-style: normal;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 700;
+  line-height: 1.55;
+  padding-top: var(--dl-space-space-doubleunit);
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  padding-left: var(--dl-space-space-tenunits);
+  border-radius: 30px;
+  padding-right: var(--dl-space-space-tenunits);
+  padding-bottom: var(--dl-space-space-doubleunit);
+  text-transform: capitalize;
+  text-decoration: none;
+  background-color: var(--dl-color-gray-black);
+}
+.home-cta-btn1 {
+  top: 613px;
+  left: 820px;
+  color: var(--dl-color-gray-white);
+  width: 270px;
+  position: absolute;
+  font-size: 18px;
+  align-self: flex-start;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  font-style: normal;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 700;
+  line-height: 1.55;
+  padding-top: var(--dl-space-space-doubleunit);
+  padding-left: var(--dl-space-space-tenunits);
+  border-radius: 30px;
+  padding-right: var(--dl-space-space-tenunits);
+  padding-bottom: var(--dl-space-space-doubleunit);
+  text-transform: capitalize;
+  text-decoration: none;
+  background-color: var(--dl-color-gray-black);
+}
+.home-cta-btn2 {
+  top: 481px;
+  left: 802px;
+  color: var(--dl-color-gray-white);
+  width: 270px;
+  position: absolute;
+  font-size: 18px;
+  align-self: flex-start;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  font-style: normal;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 700;
+  line-height: 1.55;
+  padding-top: var(--dl-space-space-doubleunit);
+  padding-left: var(--dl-space-space-tenunits);
+  border-radius: 30px;
+  padding-right: var(--dl-space-space-tenunits);
+  padding-bottom: var(--dl-space-space-doubleunit);
+  text-transform: capitalize;
+  text-decoration: none;
+  background-color: var(--dl-color-gray-black);
+}
+.home-cta-btn3 {
+  top: 373px;
+  left: 462px;
+  color: var(--dl-color-gray-white);
+  position: absolute;
+  font-size: 18px;
+  align-self: flex-start;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  font-style: normal;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 700;
+  line-height: 1.55;
+  padding-top: var(--dl-space-space-doubleunit);
+  padding-left: var(--dl-space-space-tenunits);
+  border-radius: 30px;
+  padding-right: var(--dl-space-space-tenunits);
+  padding-bottom: var(--dl-space-space-doubleunit);
+  text-transform: capitalize;
+  text-decoration: none;
+  background-color: var(--dl-color-gray-black);
+}
+.home-cta-btn4 {
+  left: 455px;
+  color: var(--dl-color-gray-white);
+  bottom: 50px;
+  position: absolute;
+  font-size: 18px;
+  align-self: flex-start;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  font-style: normal;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 700;
+  line-height: 1.55;
+  padding-top: var(--dl-space-space-doubleunit);
+  padding-left: var(--dl-space-space-tenunits);
+  border-radius: 30px;
+  padding-right: var(--dl-space-space-tenunits);
+  padding-bottom: var(--dl-space-space-doubleunit);
+  text-transform: capitalize;
+  text-decoration: none;
+  background-color: var(--dl-color-gray-black);
+}
+.home-cta-btn5 {
+  top: 474px;
+  left: 115px;
+  color: var(--dl-color-gray-white);
+  width: 270px;
+  position: absolute;
+  font-size: 18px;
+  align-self: flex-start;
+  box-shadow: rgb(212, 212, 212) 5px 5px 10px 0px;
+  font-style: normal;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 700;
+  line-height: 1.55;
+  padding-top: var(--dl-space-space-doubleunit);
+  padding-left: var(--dl-space-space-tenunits);
+  border-radius: 30px;
+  padding-right: var(--dl-space-space-tenunits);
+  padding-bottom: var(--dl-space-space-doubleunit);
+  text-transform: capitalize;
+  text-decoration: none;
+  background-color: var(--dl-color-gray-black);
+}
+.home-cta-btn6 {
+  top: 600px;
+  left: 116px;
+  color: var(--dl-color-gray-white);
+  width: 270px;
+  position: absolute;
+  font-size: 18px;
+  align-self: flex-start;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  font-style: normal;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 700;
+  line-height: 1.55;
+  padding-top: var(--dl-space-space-doubleunit);
+  padding-left: var(--dl-space-space-tenunits);
+  border-radius: 30px;
+  padding-right: var(--dl-space-space-tenunits);
+  padding-bottom: var(--dl-space-space-doubleunit);
+  text-transform: capitalize;
+  text-decoration: none;
+  background-color: var(--dl-color-gray-black);
+}
+.home-cta-btn7 {
+  top: 591px;
+  left: 454px;
+  color: var(--dl-color-gray-white);
+  width: 270px;
+  position: absolute;
+  font-size: 18px;
+  align-self: flex-start;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  font-style: normal;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 700;
+  line-height: 1.55;
+  padding-top: var(--dl-space-space-doubleunit);
+  padding-left: var(--dl-space-space-tenunits);
+  border-radius: 30px;
+  padding-right: var(--dl-space-space-tenunits);
+  padding-bottom: var(--dl-space-space-doubleunit);
+  text-transform: capitalize;
+  text-decoration: none;
+  background-color: var(--dl-color-gray-black);
+}
+.home-heading {
+  top: -181px;
+  left: -113px;
+  color: rgb(135, 130, 130);
+  width: 1377px;
+  height: 420px;
+  z-index: 100;
+  position: absolute;
+  font-size: 4em;
+  font-style: italic;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 900;
+  line-height: 10;
+}
+@media(max-width: 991px) {
+  .home-hero {
+    flex-direction: column-reverse;
+  }
+}
+@media(max-width: 479px) {
+  .home-hero {
+    padding-top: var(--dl-space-space-fourunits);
+    padding-bottom: var(--dl-space-space-fourunits);
+  }
+}
